@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IstgSample</string>
+    <string name="Instagram">Instagram</string>
+    <string name="login_instagram">Log in with Instagram</string>
+    <string name="share_instagram">Post on Instagram</string>
+    <string name="client_id">4163553193bd48969b36cdf72fe5f24b</string>
+    <string name="redirect_url">http://www.google.fr</string>
+</resources>
